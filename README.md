@@ -6,10 +6,10 @@ A theme of Hatsune Miku for Grub!
 
 1. Download & Unzip
 
-2. Copy `HatsuneMiku/[preffered size]-HatsuneMiku` into grub themes directory:
+2. Copy `[preffered size]-HatsuneMiku` into grub themes directory:
 
 ```bash
-sudo cp -r HatsuneMiku/4k-HatsuneMiku /usr/share/grub/themes
+sudo cp -r 4k-HatsuneMiku /usr/share/grub/themes
 ```
 
 3. Edit `grub` file:
